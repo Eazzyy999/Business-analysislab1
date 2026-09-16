@@ -1,0 +1,527 @@
+[
+    {
+        "company": "3M",
+        "attribute": "Formerly",
+        "value": "Minnesota Mining and Manufacturing Company (1902–2002)"
+    },
+    {
+        "company": "3M",
+        "attribute": "Type",
+        "value": "Public"
+    },
+    {
+        "company": "3M",
+        "attribute": "Traded as",
+        "value": "NYSE: MMMDJIA componentS&P 100 componentS&P 500 component"
+    },
+    {
+        "company": "3M",
+        "attribute": "ISIN",
+        "value": "US88579Y1010"
+    },
+    {
+        "company": "3M",
+        "attribute": "Industry",
+        "value": "Conglomerate"
+    },
+    {
+        "company": "3M",
+        "attribute": "Founded",
+        "value": "June 13, 1902; 124 years ago (1902-06-13) in Two Harbors, Minnesota, U.S.[1]"
+    },
+    {
+        "company": "3M",
+        "attribute": "Founders",
+        "value": "J. Danley BuddHenry S. BryanWilliam A. McGonagleJohn DwanHermon W. CableCharles Simmons[2]"
+    },
+    {
+        "company": "3M",
+        "attribute": "Headquarters",
+        "value": "Maplewood, Minnesota,  U.S."
+    },
+    {
+        "company": "3M",
+        "attribute": "Area served",
+        "value": "Worldwide"
+    },
+    {
+        "company": "3M",
+        "attribute": "Key people",
+        "value": "William M. Brown (chairman and CEO)[3]"
+    },
+    {
+        "company": "3M",
+        "attribute": "Revenue",
+        "value": "US$24.9 billion (2025)"
+    },
+    {
+        "company": "3M",
+        "attribute": "Operating income",
+        "value": "US$4.63 billion (2025)"
+    },
+    {
+        "company": "3M",
+        "attribute": "Net income",
+        "value": "US$3.25 billion (2025)"
+    },
+    {
+        "company": "3M",
+        "attribute": "Total assets",
+        "value": "US$37.7 billion (2025)"
+    },
+    {
+        "company": "3M",
+        "attribute": "Total equity",
+        "value": "US$4.70 billion (2025)"
+    },
+    {
+        "company": "3M",
+        "attribute": "Number of employees",
+        "value": "c. 60,500 (2025)"
+    },
+    {
+        "company": "3M",
+        "attribute": "Website",
+        "value": "3m.com"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Type",
+        "value": "Public"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Traded as",
+        "value": "NYSE: ABTS&P 100 componentS&P 500 component"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Industry",
+        "value": "Health careMedical devicesPharmaceutical"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Founded",
+        "value": "1888; 138 years ago (1888) (as Abbott Alkaloidal Company) in Ravenswood, Chicago"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Founder",
+        "value": "Wallace Calvin Abbott"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Successor",
+        "value": "AbbVie"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Headquarters",
+        "value": "Abbott Park, Illinois, U.S."
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Area served",
+        "value": "Worldwide"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Key people",
+        "value": "Robert B. Ford(chairman & CEO)[1]Phil Boudreau(EVP & CFO)"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Products",
+        "value": "Pharmaceutical drugsGeneric drugsMedical devicesDiagnostic assaysDietary supplementsNutritionals"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Revenue",
+        "value": "US$44.3 billion (2025)"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Operating income",
+        "value": "US$8.05 billion (2025)"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Net income",
+        "value": "US$6.52 billion (2025)"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Total assets",
+        "value": "US$86.7 billion (2025)"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Total equity",
+        "value": "US$52.1 billion (2025)"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Number of employees",
+        "value": "c. 115,000 (2025)"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "attribute": "Website",
+        "value": "abbott.com"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Type",
+        "value": "Public"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Traded as",
+        "value": "NYSE: ABBVS&P 100 componentS&P 500 component"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Industry",
+        "value": "Biopharmaceutical"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Founded",
+        "value": "April 10, 2012; 14 years ago (2012-04-10)"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Headquarters",
+        "value": "North Chicago, Illinois, United States"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Area served",
+        "value": "170+ countries worldwide"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Key people",
+        "value": "Robert Michael (chairman and CEO)"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Products",
+        "value": "Humira, Imbruvica, Kaletra, Mavyret/Maviret, Norvir, Skyrizi, Venclexta, Zinbryta"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Revenue",
+        "value": "US$61.2 billion (2025)"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Operating income",
+        "value": "US$15.1 billion (2025)"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Net income",
+        "value": "US$4.23 billion (2025)"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Total assets",
+        "value": "US$134 billion (2025)"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Total equity",
+        "value": "US$−3.3 billion (2025)"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Number of employees",
+        "value": "57,000 (2025)"
+    },
+    {
+        "company": "AbbVie",
+        "attribute": "Website",
+        "value": "abbvie.com"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Formerly",
+        "value": "Andersen Consulting (1989–2000)"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Type",
+        "value": "Public limited company"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Traded as",
+        "value": "NYSE: ACN (Class A)S&P 100 componentS&P 500 component"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "ISIN",
+        "value": "IE00B4BNMY34"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Industry",
+        "value": "Professional servicesManagement consultingInformation technology"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Predecessor",
+        "value": "Arthur Andersen"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Founded",
+        "value": "1989; 37 years ago (1989)"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Headquarters",
+        "value": "Dublin,  Ireland"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Area served",
+        "value": "Worldwide"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Key people",
+        "value": "Julie Sweet (chair and CEO)"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Services",
+        "value": "Management consultingInformation technology consultingSystems integrationCloud computingBusiness process outsourcingCybersecurity"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Revenue",
+        "value": "US$69.67 billion (2025)[1]"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Operating income",
+        "value": "US$10.23 billion (2025)[1]"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Net income",
+        "value": "US$7.83 billion (2025)[1]"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Total assets",
+        "value": "US$65.39 billion (2025)[1]"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Total equity",
+        "value": "US$32.24 billion (2025)[1]"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Number of employees",
+        "value": "779,000 (2025)[1]"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Subsidiaries",
+        "value": "AvanadeDroga5UdacityTalentSprintFacultyOokla"
+    },
+    {
+        "company": "Accenture",
+        "attribute": "Website",
+        "value": "accenture.com"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Trade name",
+        "value": "Adobe"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Formerly",
+        "value": "Adobe Systems Incorporated (1982–2018)"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Type",
+        "value": "Public"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Traded as",
+        "value": "Nasdaq: ADBENasdaq-100 componentS&P 100 componentS&P 500 component"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Industry",
+        "value": "Software"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Founded",
+        "value": "December 1982; 43 years ago (1982-12)Mountain View, California, U.S."
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Founders",
+        "value": "John WarnockCharles Geschke"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Headquarters",
+        "value": "Adobe World Headquarters,  San Jose, California,  U.S."
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Area served",
+        "value": "Worldwide"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Key people",
+        "value": "Shantanu Narayen(chairman & CEO)"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Products",
+        "value": "PhotoshopAcrobatIllustratorPDFLightroomCaptivateColdFusionXDDreamweaverInDesignExpressPremiereRoboHelpFrameMakerCreative Cloud(Full list)"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Services",
+        "value": "SaaS"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Revenue",
+        "value": "US$23.77 billion (2025)"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Operating income",
+        "value": "US$8.71 billion (2025)"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Net income",
+        "value": "US$7.13 billion (2025)"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Total assets",
+        "value": "US$29.50 billion (2025)"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Total equity",
+        "value": "US$11.62 billion (2025)"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Number of employees",
+        "value": "31,360 (November 2025)"
+    },
+    {
+        "company": "Adobe Inc.",
+        "attribute": "Website",
+        "value": "adobe.com"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Trade name",
+        "value": "AMD"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Type",
+        "value": "Public"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Traded as",
+        "value": "Nasdaq: AMDNasdaq-100 componentS&P 100 componentS&P 500 component"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Industry",
+        "value": "SemiconductorsComputer hardware"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Founded",
+        "value": "May 1, 1969; 57 years ago (1969-05-01)"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Founder",
+        "value": "Team led by Jerry Sanders"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Headquarters",
+        "value": "Santa Clara, California,  U.S."
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Area served",
+        "value": "Worldwide"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Key people",
+        "value": "Lisa Su (chair & CEO)Mark Papermaster (CTO)Jean Hu (CFO)Phil Guido (CCO)"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Products",
+        "value": "AMD CPUs, AMD GPUs, AMD FPGAs"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Brands",
+        "value": "RyzenRadeonAthlonEpycThreadripperVirtexVivadoSempronDuronAMD Instinct"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Revenue",
+        "value": "US$34.6 billion (2025)"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Operating income",
+        "value": "US$3.69 billion (2025)"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Net income",
+        "value": "US$4.34 billion (2025)"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Total assets",
+        "value": "US$76.9 billion (2025)"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Total equity",
+        "value": "US$63.0 billion (2025)"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Number of employees",
+        "value": "c. 31,000 (2025)"
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "attribute": "Website",
+        "value": "amd.com"
+    }
+]
